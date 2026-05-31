@@ -9,6 +9,7 @@
 
 Rather than being a simple platformer, this project serves as a complete demonstration of modern game programming concepts including:
 
+
 * Object-Oriented Design
 * Physics Simulation
 * Collision Detection Systems
